@@ -1,5 +1,5 @@
 #!/bin/bash
 
 #Salutation
-echo "Bye!"
+echo "Bye ${USER}!"
 
